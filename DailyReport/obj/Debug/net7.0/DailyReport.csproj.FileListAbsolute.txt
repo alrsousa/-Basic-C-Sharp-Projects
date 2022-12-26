@@ -1,0 +1,15 @@
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\obj\Debug\net7.0\DailyReport.csproj.AssemblyReference.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\obj\Debug\net7.0\DailyReport.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\obj\Debug\net7.0\DailyReport.AssemblyInfoInputs.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\obj\Debug\net7.0\DailyReport.AssemblyInfo.cs
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\obj\Debug\net7.0\DailyReport.csproj.CoreCompileInputs.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\bin\Debug\net7.0\DailyReport.exe
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\bin\Debug\net7.0\DailyReport.deps.json
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\bin\Debug\net7.0\DailyReport.runtimeconfig.json
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\bin\Debug\net7.0\DailyReport.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\bin\Debug\net7.0\DailyReport.pdb
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\obj\Debug\net7.0\DailyReport.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\obj\Debug\net7.0\refint\DailyReport.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\obj\Debug\net7.0\DailyReport.pdb
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\obj\Debug\net7.0\DailyReport.genruntimeconfig.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\DailyReport\obj\Debug\net7.0\ref\DailyReport.dll
