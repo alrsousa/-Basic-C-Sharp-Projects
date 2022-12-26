@@ -1,0 +1,15 @@
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\bin\Debug\net7.0\ACME.exe
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\bin\Debug\net7.0\ACME.deps.json
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\bin\Debug\net7.0\ACME.runtimeconfig.json
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\bin\Debug\net7.0\ACME.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\bin\Debug\net7.0\ACME.pdb
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\obj\Debug\net7.0\ACME.csproj.AssemblyReference.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\obj\Debug\net7.0\ACME.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\obj\Debug\net7.0\ACME.AssemblyInfoInputs.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\obj\Debug\net7.0\ACME.AssemblyInfo.cs
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\obj\Debug\net7.0\ACME.csproj.CoreCompileInputs.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\obj\Debug\net7.0\ACME.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\obj\Debug\net7.0\refint\ACME.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\obj\Debug\net7.0\ACME.pdb
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\obj\Debug\net7.0\ACME.genruntimeconfig.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ACME\ACME\ACME\obj\Debug\net7.0\ref\ACME.dll
