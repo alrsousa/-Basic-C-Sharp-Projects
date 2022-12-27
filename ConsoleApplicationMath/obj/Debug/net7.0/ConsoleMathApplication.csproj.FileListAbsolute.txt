@@ -1,0 +1,15 @@
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\bin\Debug\net7.0\ConsoleMathApplication.exe
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\bin\Debug\net7.0\ConsoleMathApplication.deps.json
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\bin\Debug\net7.0\ConsoleMathApplication.runtimeconfig.json
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\bin\Debug\net7.0\ConsoleMathApplication.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\bin\Debug\net7.0\ConsoleMathApplication.pdb
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\obj\Debug\net7.0\ConsoleMathApplication.csproj.AssemblyReference.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\obj\Debug\net7.0\ConsoleMathApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\obj\Debug\net7.0\ConsoleMathApplication.AssemblyInfoInputs.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\obj\Debug\net7.0\ConsoleMathApplication.AssemblyInfo.cs
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\obj\Debug\net7.0\ConsoleMathApplication.csproj.CoreCompileInputs.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\obj\Debug\net7.0\ConsoleMathApplication.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\obj\Debug\net7.0\refint\ConsoleMathApplication.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\obj\Debug\net7.0\ConsoleMathApplication.pdb
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\obj\Debug\net7.0\ConsoleMathApplication.genruntimeconfig.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleApplicationMath\obj\Debug\net7.0\ref\ConsoleMathApplication.dll
