@@ -17,7 +17,7 @@ class Program
         decimal lv_hour1 = Convert.ToDecimal(Console.ReadLine());
         Console.Write("Hours worked per week?  ");
         int lv_hours1 = Convert.ToInt32(Console.ReadLine());
-        decimal lv_total1 = (lv_hour1 * 8 * 5 * 52);
+        decimal lv_total1 = (lv_hour1 * lv_hours1 * 52);
 
         // Input data and processing for Person 2
         for (int i = 0; i < 3; i++)
@@ -30,7 +30,7 @@ class Program
         decimal lv_hour2 = Convert.ToDecimal(Console.ReadLine());
         Console.Write("Hours worked per week?  ");
         int lv_hours2 = Convert.ToInt32(Console.ReadLine());
-        decimal lv_total2 = (lv_hour2 * 8 * 5 * 52);
+        decimal lv_total2 = (lv_hour2 * lv_hours2 * 52);
 
         //Print Results
         for (int i = 0; i < 10; i++)
