@@ -1,0 +1,15 @@
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\obj\Debug\net7.0\BooleanLogic.csproj.AssemblyReference.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\obj\Debug\net7.0\BooleanLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\obj\Debug\net7.0\BooleanLogic.AssemblyInfoInputs.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\obj\Debug\net7.0\BooleanLogic.AssemblyInfo.cs
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\obj\Debug\net7.0\BooleanLogic.csproj.CoreCompileInputs.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\bin\Debug\net7.0\BooleanLogic.exe
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\bin\Debug\net7.0\BooleanLogic.deps.json
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\bin\Debug\net7.0\BooleanLogic.runtimeconfig.json
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\bin\Debug\net7.0\BooleanLogic.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\bin\Debug\net7.0\BooleanLogic.pdb
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\obj\Debug\net7.0\BooleanLogic.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\obj\Debug\net7.0\refint\BooleanLogic.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\obj\Debug\net7.0\BooleanLogic.pdb
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\obj\Debug\net7.0\BooleanLogic.genruntimeconfig.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\BooleanLogic\BooleanLogic\obj\Debug\net7.0\ref\BooleanLogic.dll
