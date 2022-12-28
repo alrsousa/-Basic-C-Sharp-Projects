@@ -1,0 +1,15 @@
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\bin\Debug\net7.0\BranchingAssigment.exe
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\bin\Debug\net7.0\BranchingAssigment.deps.json
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\bin\Debug\net7.0\BranchingAssigment.runtimeconfig.json
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\bin\Debug\net7.0\BranchingAssigment.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\bin\Debug\net7.0\BranchingAssigment.pdb
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\obj\Debug\net7.0\BranchingAssigment.csproj.AssemblyReference.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\obj\Debug\net7.0\BranchingAssigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\obj\Debug\net7.0\BranchingAssigment.AssemblyInfoInputs.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\obj\Debug\net7.0\BranchingAssigment.AssemblyInfo.cs
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\obj\Debug\net7.0\BranchingAssigment.csproj.CoreCompileInputs.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\obj\Debug\net7.0\BranchingAssigment.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\obj\Debug\net7.0\refint\BranchingAssigment.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\obj\Debug\net7.0\BranchingAssigment.pdb
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\obj\Debug\net7.0\BranchingAssigment.genruntimeconfig.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\Branching\BranchingAssigment\obj\Debug\net7.0\ref\BranchingAssigment.dll
