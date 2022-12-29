@@ -14,8 +14,13 @@ class Program
             switch (number)
             {
 
-                case 29:
-                    Console.WriteLine("You guessed the number 29. That is correct!");
+                case > 31:
+                    Console.WriteLine("You are wrong. I don´t know months with more than 31 days ");
+                    Console.Write("Guess a number day of the month?   ");
+                    number = Convert.ToInt32(Console.ReadLine());
+                    break;
+                case 25:
+                    Console.WriteLine("You guessed the number 25. That is correct!");
                     isGuessed = true;
                     break;
 
@@ -27,16 +32,16 @@ class Program
 
             }
 
-        }
 
-        //loops the program until user enters correct number 29
+        }
+        //loops the program until user enters correct number 25
         while (!isGuessed);
 
             }
 
         }
 
-        
+
 
 
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDriveAndre\\OneDrive\\Documentos\\IMPORTANTES\\Canada\\2021\\AcademyOfLearning\\C-Sharp\\Assigments\\DoWhileLoop\\DoWhileLoop\\DoWhileLoop.csproj": {}
+    "D:\\OneDriveAndre\\OneDrive\\Documentos\\IMPORTANTES\\Canada\\2021\\AcademyOfLearning\\C-Sharp\\Assigments\\DoWhileLoop\\DoWhileLoop.csproj": {}
   },
   "projects": {
-    "D:\\OneDriveAndre\\OneDrive\\Documentos\\IMPORTANTES\\Canada\\2021\\AcademyOfLearning\\C-Sharp\\Assigments\\DoWhileLoop\\DoWhileLoop\\DoWhileLoop.csproj": {
+    "D:\\OneDriveAndre\\OneDrive\\Documentos\\IMPORTANTES\\Canada\\2021\\AcademyOfLearning\\C-Sharp\\Assigments\\DoWhileLoop\\DoWhileLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDriveAndre\\OneDrive\\Documentos\\IMPORTANTES\\Canada\\2021\\AcademyOfLearning\\C-Sharp\\Assigments\\DoWhileLoop\\DoWhileLoop\\DoWhileLoop.csproj",
+        "projectUniqueName": "D:\\OneDriveAndre\\OneDrive\\Documentos\\IMPORTANTES\\Canada\\2021\\AcademyOfLearning\\C-Sharp\\Assigments\\DoWhileLoop\\DoWhileLoop.csproj",
         "projectName": "DoWhileLoop",
-        "projectPath": "D:\\OneDriveAndre\\OneDrive\\Documentos\\IMPORTANTES\\Canada\\2021\\AcademyOfLearning\\C-Sharp\\Assigments\\DoWhileLoop\\DoWhileLoop\\DoWhileLoop.csproj",
+        "projectPath": "D:\\OneDriveAndre\\OneDrive\\Documentos\\IMPORTANTES\\Canada\\2021\\AcademyOfLearning\\C-Sharp\\Assigments\\DoWhileLoop\\DoWhileLoop.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDriveAndre\\OneDrive\\Documentos\\IMPORTANTES\\Canada\\2021\\AcademyOfLearning\\C-Sharp\\Assigments\\DoWhileLoop\\DoWhileLoop\\obj\\",
+        "outputPath": "D:\\OneDriveAndre\\OneDrive\\Documentos\\IMPORTANTES\\Canada\\2021\\AcademyOfLearning\\C-Sharp\\Assigments\\DoWhileLoop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
