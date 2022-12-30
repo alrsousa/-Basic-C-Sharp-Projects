@@ -8,7 +8,7 @@ class Program
     {
         Console.Write("Guess a number day of the month?   ");
         int number = Convert.ToInt32(Console.ReadLine());
-        bool isGuessed = number == DateTime.Today.Day;
+        bool isCorrect = number == DateTime.Today.Day;
         do
         {
             switch (number)
@@ -21,7 +21,7 @@ class Program
                     break;
                 case 25:
                     Console.WriteLine("You guessed the number 25. That is correct!");
-                    isGuessed = true;
+                    isCorrect = true;
                     break;
 
                 default:
@@ -35,9 +35,29 @@ class Program
 
         }
         //loops the program until user enters correct number 25
-        while (!isGuessed);
+        while (!isCorrect);
 
-            }
+        int i = 1;
+        while (i <= 10)
+        {
+            Console.WriteLine("***********");
+            i = i + 1;
+        }
+
+        int count_ini = 0; 
+        Console.Write("When something make you nervous, what number do you usually count to?   ");
+        int count = Convert.ToInt32(Console.ReadLine());
+        while (count_ini <= count)
+        {
+            Console.WriteLine("Counting " + Convert.ToString(count_ini) + "...");
+            count_ini++;
+
+        }
+
+
+    }
+ 
+
 
         }
 
