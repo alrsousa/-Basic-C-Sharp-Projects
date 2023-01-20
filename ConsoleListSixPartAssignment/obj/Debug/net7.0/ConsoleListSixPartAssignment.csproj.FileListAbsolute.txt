@@ -1,0 +1,15 @@
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\bin\Debug\net7.0\ConsoleListSixPartAssignment.exe
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\bin\Debug\net7.0\ConsoleListSixPartAssignment.deps.json
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\bin\Debug\net7.0\ConsoleListSixPartAssignment.runtimeconfig.json
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\bin\Debug\net7.0\ConsoleListSixPartAssignment.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\bin\Debug\net7.0\ConsoleListSixPartAssignment.pdb
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\obj\Debug\net7.0\ConsoleListSixPartAssignment.csproj.AssemblyReference.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\obj\Debug\net7.0\ConsoleListSixPartAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\obj\Debug\net7.0\ConsoleListSixPartAssignment.AssemblyInfoInputs.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\obj\Debug\net7.0\ConsoleListSixPartAssignment.AssemblyInfo.cs
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\obj\Debug\net7.0\ConsoleListSixPartAssignment.csproj.CoreCompileInputs.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\obj\Debug\net7.0\ConsoleListSixPartAssignment.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\obj\Debug\net7.0\refint\ConsoleListSixPartAssignment.dll
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\obj\Debug\net7.0\ConsoleListSixPartAssignment.pdb
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\obj\Debug\net7.0\ConsoleListSixPartAssignment.genruntimeconfig.cache
+D:\OneDriveAndre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConsoleListSixPart\ConsoleListSixPartAssignment\obj\Debug\net7.0\ref\ConsoleListSixPartAssignment.dll
