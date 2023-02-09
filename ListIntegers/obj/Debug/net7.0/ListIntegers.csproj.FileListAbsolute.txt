@@ -1,0 +1,15 @@
+C:\Assigments\ListIntegers\ListIntegers\obj\Debug\net7.0\ListIntegers.csproj.AssemblyReference.cache
+C:\Assigments\ListIntegers\ListIntegers\obj\Debug\net7.0\ListIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assigments\ListIntegers\ListIntegers\obj\Debug\net7.0\ListIntegers.AssemblyInfoInputs.cache
+C:\Assigments\ListIntegers\ListIntegers\obj\Debug\net7.0\ListIntegers.AssemblyInfo.cs
+C:\Assigments\ListIntegers\ListIntegers\obj\Debug\net7.0\ListIntegers.csproj.CoreCompileInputs.cache
+C:\Assigments\ListIntegers\ListIntegers\bin\Debug\net7.0\ListIntegers.exe
+C:\Assigments\ListIntegers\ListIntegers\bin\Debug\net7.0\ListIntegers.deps.json
+C:\Assigments\ListIntegers\ListIntegers\bin\Debug\net7.0\ListIntegers.runtimeconfig.json
+C:\Assigments\ListIntegers\ListIntegers\bin\Debug\net7.0\ListIntegers.dll
+C:\Assigments\ListIntegers\ListIntegers\bin\Debug\net7.0\ListIntegers.pdb
+C:\Assigments\ListIntegers\ListIntegers\obj\Debug\net7.0\ListIntegers.dll
+C:\Assigments\ListIntegers\ListIntegers\obj\Debug\net7.0\refint\ListIntegers.dll
+C:\Assigments\ListIntegers\ListIntegers\obj\Debug\net7.0\ListIntegers.pdb
+C:\Assigments\ListIntegers\ListIntegers\obj\Debug\net7.0\ListIntegers.genruntimeconfig.cache
+C:\Assigments\ListIntegers\ListIntegers\obj\Debug\net7.0\ref\ListIntegers.dll
