@@ -1,0 +1,15 @@
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\bin\Debug\net7.0\ClassMethodOutput.exe
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\bin\Debug\net7.0\ClassMethodOutput.deps.json
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\bin\Debug\net7.0\ClassMethodOutput.runtimeconfig.json
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\bin\Debug\net7.0\ClassMethodOutput.dll
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\bin\Debug\net7.0\ClassMethodOutput.pdb
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\obj\Debug\net7.0\ClassMethodOutput.csproj.AssemblyReference.cache
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\obj\Debug\net7.0\ClassMethodOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\obj\Debug\net7.0\ClassMethodOutput.AssemblyInfoInputs.cache
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\obj\Debug\net7.0\ClassMethodOutput.AssemblyInfo.cs
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\obj\Debug\net7.0\ClassMethodOutput.csproj.CoreCompileInputs.cache
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\obj\Debug\net7.0\ClassMethodOutput.dll
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\obj\Debug\net7.0\refint\ClassMethodOutput.dll
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\obj\Debug\net7.0\ClassMethodOutput.pdb
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\obj\Debug\net7.0\ClassMethodOutput.genruntimeconfig.cache
+C:\Assigments\ClassMethodOutput\ClassMethodOutput\obj\Debug\net7.0\ref\ClassMethodOutput.dll
