@@ -1,0 +1,15 @@
+C:\Assigments\CallingMethods4\CallingMethods4\bin\Debug\net7.0\CallingMethods4.exe
+C:\Assigments\CallingMethods4\CallingMethods4\bin\Debug\net7.0\CallingMethods4.deps.json
+C:\Assigments\CallingMethods4\CallingMethods4\bin\Debug\net7.0\CallingMethods4.runtimeconfig.json
+C:\Assigments\CallingMethods4\CallingMethods4\bin\Debug\net7.0\CallingMethods4.dll
+C:\Assigments\CallingMethods4\CallingMethods4\bin\Debug\net7.0\CallingMethods4.pdb
+C:\Assigments\CallingMethods4\CallingMethods4\obj\Debug\net7.0\CallingMethods4.csproj.AssemblyReference.cache
+C:\Assigments\CallingMethods4\CallingMethods4\obj\Debug\net7.0\CallingMethods4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assigments\CallingMethods4\CallingMethods4\obj\Debug\net7.0\CallingMethods4.AssemblyInfoInputs.cache
+C:\Assigments\CallingMethods4\CallingMethods4\obj\Debug\net7.0\CallingMethods4.AssemblyInfo.cs
+C:\Assigments\CallingMethods4\CallingMethods4\obj\Debug\net7.0\CallingMethods4.csproj.CoreCompileInputs.cache
+C:\Assigments\CallingMethods4\CallingMethods4\obj\Debug\net7.0\CallingMethods4.dll
+C:\Assigments\CallingMethods4\CallingMethods4\obj\Debug\net7.0\refint\CallingMethods4.dll
+C:\Assigments\CallingMethods4\CallingMethods4\obj\Debug\net7.0\CallingMethods4.pdb
+C:\Assigments\CallingMethods4\CallingMethods4\obj\Debug\net7.0\CallingMethods4.genruntimeconfig.cache
+C:\Assigments\CallingMethods4\CallingMethods4\obj\Debug\net7.0\ref\CallingMethods4.dll
