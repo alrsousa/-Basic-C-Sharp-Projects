@@ -1,0 +1,8 @@
+C:\Assigments\LambdaAssignment\bin\Debug\LambdaAssignment.exe.config
+C:\Assigments\LambdaAssignment\bin\Debug\LambdaAssignment.exe
+C:\Assigments\LambdaAssignment\bin\Debug\LambdaAssignment.pdb
+C:\Assigments\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.AssemblyReference.cache
+C:\Assigments\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assigments\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Assigments\LambdaAssignment\obj\Debug\LambdaAssignment.exe
+C:\Assigments\LambdaAssignment\obj\Debug\LambdaAssignment.pdb
