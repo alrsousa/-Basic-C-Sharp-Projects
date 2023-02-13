@@ -1,0 +1,8 @@
+C:\Assigments\OperatorAssignment\obj\Debug\OperatorAssignment.csproj.AssemblyReference.cache
+C:\Assigments\OperatorAssignment\obj\Debug\OperatorAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assigments\OperatorAssignment\obj\Debug\OperatorAssignment.csproj.CoreCompileInputs.cache
+C:\Assigments\OperatorAssignment\bin\Debug\OperatorAssignment.exe.config
+C:\Assigments\OperatorAssignment\bin\Debug\OperatorAssignment.exe
+C:\Assigments\OperatorAssignment\bin\Debug\OperatorAssignment.pdb
+C:\Assigments\OperatorAssignment\obj\Debug\OperatorAssignment.exe
+C:\Assigments\OperatorAssignment\obj\Debug\OperatorAssignment.pdb
