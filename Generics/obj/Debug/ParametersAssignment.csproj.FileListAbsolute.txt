@@ -1,0 +1,8 @@
+C:\Assigments\Generics\bin\Debug\ParametersAssignment.exe.config
+C:\Assigments\Generics\bin\Debug\ParametersAssignment.exe
+C:\Assigments\Generics\bin\Debug\ParametersAssignment.pdb
+C:\Assigments\Generics\obj\Debug\ParametersAssignment.csproj.AssemblyReference.cache
+C:\Assigments\Generics\obj\Debug\ParametersAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assigments\Generics\obj\Debug\ParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Assigments\Generics\obj\Debug\ParametersAssignment.exe
+C:\Assigments\Generics\obj\Debug\ParametersAssignment.pdb
