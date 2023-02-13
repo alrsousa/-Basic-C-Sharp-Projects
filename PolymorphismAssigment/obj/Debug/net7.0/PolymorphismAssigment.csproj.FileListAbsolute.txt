@@ -1,0 +1,15 @@
+C:\Assigments\PolymorphismAssigment\bin\Debug\net7.0\PolymorphismAssigment.exe
+C:\Assigments\PolymorphismAssigment\bin\Debug\net7.0\PolymorphismAssigment.deps.json
+C:\Assigments\PolymorphismAssigment\bin\Debug\net7.0\PolymorphismAssigment.runtimeconfig.json
+C:\Assigments\PolymorphismAssigment\bin\Debug\net7.0\PolymorphismAssigment.dll
+C:\Assigments\PolymorphismAssigment\bin\Debug\net7.0\PolymorphismAssigment.pdb
+C:\Assigments\PolymorphismAssigment\obj\Debug\net7.0\PolymorphismAssigment.csproj.AssemblyReference.cache
+C:\Assigments\PolymorphismAssigment\obj\Debug\net7.0\PolymorphismAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assigments\PolymorphismAssigment\obj\Debug\net7.0\PolymorphismAssigment.AssemblyInfoInputs.cache
+C:\Assigments\PolymorphismAssigment\obj\Debug\net7.0\PolymorphismAssigment.AssemblyInfo.cs
+C:\Assigments\PolymorphismAssigment\obj\Debug\net7.0\PolymorphismAssigment.csproj.CoreCompileInputs.cache
+C:\Assigments\PolymorphismAssigment\obj\Debug\net7.0\PolymorphismAssigment.dll
+C:\Assigments\PolymorphismAssigment\obj\Debug\net7.0\refint\PolymorphismAssigment.dll
+C:\Assigments\PolymorphismAssigment\obj\Debug\net7.0\PolymorphismAssigment.pdb
+C:\Assigments\PolymorphismAssigment\obj\Debug\net7.0\PolymorphismAssigment.genruntimeconfig.cache
+C:\Assigments\PolymorphismAssigment\obj\Debug\net7.0\ref\PolymorphismAssigment.dll
