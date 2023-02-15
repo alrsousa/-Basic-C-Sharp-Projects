@@ -1,0 +1,7 @@
+C:\Assigments\Date_TimeAssignment\bin\Debug\Date_TimeAssignment.exe
+C:\Assigments\Date_TimeAssignment\bin\Debug\Date_TimeAssignment.pdb
+C:\Assigments\Date_TimeAssignment\obj\Debug\Date_TimeAssignment.csproj.AssemblyReference.cache
+C:\Assigments\Date_TimeAssignment\obj\Debug\Date_TimeAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Assigments\Date_TimeAssignment\obj\Debug\Date_TimeAssignment.csproj.CoreCompileInputs.cache
+C:\Assigments\Date_TimeAssignment\obj\Debug\Date_TimeAssignment.exe
+C:\Assigments\Date_TimeAssignment\obj\Debug\Date_TimeAssignment.pdb
