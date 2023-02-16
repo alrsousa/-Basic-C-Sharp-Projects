@@ -1,0 +1,8 @@
+C:\Users\andre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe.config
+C:\Users\andre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe
+C:\Users\andre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConstructorAssignment\bin\Debug\ConstructorAssignment.pdb
+C:\Users\andre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConstructorAssignment\obj\Debug\ConstructorAssignment.exe
+C:\Users\andre\OneDrive\Documentos\IMPORTANTES\Canada\2021\AcademyOfLearning\C-Sharp\Assigments\ConstructorAssignment\obj\Debug\ConstructorAssignment.pdb
